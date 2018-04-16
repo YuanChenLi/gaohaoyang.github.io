@@ -18,7 +18,6 @@ type: page
 
 * GitHub：[YuanChenLi](https://github.com/YuanChenLi)
 * email：[yclichn@163.com](mailto:yclichn@163.com)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
 
 ## 关于本站
 

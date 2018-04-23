@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dubbo学习笔记（一）-从一个RPC框架开始"
+title:  "Dubbo学习笔记（一）：从一个RPC框架开始"
 categories: Dubbo
 tags:  dubbo soa rpc
 author: 云轩

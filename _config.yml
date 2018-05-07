@@ -44,6 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+highlighter: rouge
 
 # port
 # port: 1234
@@ -51,6 +52,13 @@ kramdown:
 # url
 category_dir: category/
 tag_dir: tag/
+
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    owner: YuanChenLi
+    repo: yuanchenli.github.io
+    clientID: 9f74c466bafbb2bdafbe
+    clientSecret: e24ec218f462cd8958fe201ca5f36dc83d4c7093
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
